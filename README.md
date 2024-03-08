@@ -1,7 +1,24 @@
-<h1>Beginner's Guide to Machine Learning Project</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+</head>
+<body>
+    <header>
+        <h1>Beginner-Level-ML-Project</h1>
+    </header>
+    <div class="container">
+        <p>Welcome to the Beginner-Level-ML-Project repository! This repository is designed to help beginners get started with machine learning.</p>
+        <p>Here, you'll find:</p>
+        <ul>
+            <li>Simple implementations of basic machine learning algorithms</li>
+            <li>Step-by-step tutorials for building your first machine learning models</li>
+            <li>Guidance on data preprocessing, model evaluation, and more</li>
+        </ul>
+        <p>Feel free to explore the code and documentation to begin your journey into the exciting world of machine learning!</p>
+    </div>
+</body>
+</html>
 
-Welcome to the Beginner's Guide to Machine Learning Project repository! This project aims to provide a hands-on introduction to machine learning (ML) for beginners. Whether you're a student, hobbyist, or aspiring data scientist, this project is designed to help you learn the basics of ML in a practical way.
-
-
-<h3>About</h3>
-This project includes a series of beginner-friendly machine learning tutorials, code examples, and resources to help you get started with ML. Each tutorial covers essential concepts, step-by-step instructions, and practical exercises to reinforce your learning.
